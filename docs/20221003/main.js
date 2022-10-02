@@ -9,6 +9,5 @@ options = {};
 
 function update() {
   if (!ticks) {
-    play("coin");
   }
 }
